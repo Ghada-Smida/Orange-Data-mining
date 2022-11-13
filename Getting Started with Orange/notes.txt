@@ -1,1 +1,22 @@
+All of the 20 Getting Started with orange Playlist from https://www.youtube.com/watch?v=HXjnDIgGDuI&list=PLmNPvQr9Tf-ZSDLwOzxpvY-HrE0yv-8Fy
 
+Getting Started with Orange 01: Welcome to Orange
+Getting Started with Orange 02: Data Workflows
+Getting Started with Orange 03: Widgets and Channels
+Getting Started with Orange 04: Loading Your Data
+Getting Started With Orange 05: Hierarchical Clustering
+Getting Started with Orange 06: Making Predictions
+Getting Started with Orange 07: Model Evaluation and Scoring
+Getting Started with Orange 08: Add-ons
+Getting Started with Orange 09: Principal Component Analysis
+Getting Started with Orange 10: Feature Scoring and Ranking
+Getting Started with Orange 11: k-Means
+Getting Started with Orange 12: k-Means Explained
+Getting Started with Orange 13: Silhouette
+Getting Started with Orange 14: Image Analytics - Clustering
+Getting Started with Orange 15: Image Analytics - Classification
+Getting Started with Orange 16: Text Preprocessing
+Getting Started with Orange 17: Text Clustering
+Getting Started with Orange 18: Text Classification
+Getting Started with Orange 19: How to Import Text Documents
+Getting Started with Orange 20: Multivariate Projection - Freeviz
